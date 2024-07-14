@@ -27,3 +27,6 @@ let state;
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
+
+
+//ECMA es262 javascript standards - https://tc39.es/ecma262/
